@@ -34,14 +34,14 @@ void leeDatosSerie(string &_id, string &_titulo, int &_duracion, string &_genero
 
 ---
 
-[title](https://www.visiticeland.com/)
-![alt text]()
+[Viaja a Islandia](https://www.visiticeland.com/)
+![alt text](islandia.jpg)
 
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] Islandia
+- [ ] Grecia
+- [ ] Osaka
