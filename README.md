@@ -35,3 +35,13 @@ void leeDatosSerie(string &_id, string &_titulo, int &_duracion, string &_genero
 ---
 
 [title](https://www.visiticeland.com/)
+![alt text]()
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
